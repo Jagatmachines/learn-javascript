@@ -1,0 +1,13 @@
+phrase:
+  access_token: 6d87602ec0f750e74580d80def0f4432d005bd45fd669e644ae38a281537f17b
+  project_id: b4aec27dfae252fe5cc5b779fcb9bd9f
+  push:
+    sources:
+    - file: _book/index.html
+      params:
+        file_format: html_5
+  pull:
+    targets:
+    - file: _book/index.html
+      params:
+        file_format: html_5
